@@ -7,7 +7,7 @@
 `python`
 
 # 설치
-`pip install sentencepiece`
+`pip install sentencepiece`\
 `git clone https://github.com/olive-ai/olive_tokenizer.git`
 
 # 사용법

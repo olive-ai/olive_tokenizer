@@ -1,7 +1,6 @@
 # olive_tokenizer
 
-구글의 [Sentence Piece](https://github.com/google/sentencepiece) 모델 기반 한국어 Tokenizer 입니다.
-
+구글의 [Sentence Piece](https://github.com/google/sentencepiece) 모델 기반 한국어 Tokenizer 입니다.\
 한국어 위키피디아를 학습데이터로 사용하였고, vocab size는 32,000개 입니다.
 
 ## 요구사항
